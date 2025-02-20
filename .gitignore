@@ -125,3 +125,4 @@ cython_debug/
 
 # dotenv
 **/*.env
+Labfiles/02-ai-services-security/Python/keyvault_client/.env
