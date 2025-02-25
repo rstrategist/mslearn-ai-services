@@ -9,7 +9,6 @@ from azure.cognitiveservices.vision.customvision.training.models import (
 from msrest.authentication import ApiKeyCredentials
 import time
 import os
-import dotenv
 
 
 def main():
