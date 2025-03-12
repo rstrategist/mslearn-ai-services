@@ -32,7 +32,9 @@ This repository contains lab files for various Azure AI Services modules. These 
     ```sh
     pip install azure-cognitiveservices-vision-customvision==3.1.0
     pip install azure-ai-textanalytics==5.3.0
+    pip install azure-cognitiveservices-speech==1.30.0
     pip install python-dotenv
+    pip install playsound==1.2.2
     ```
 4. **Run the scripts**
 - Navigate to the appropriate lab folder and run the Python scripts as instructed in the lab documentation.
